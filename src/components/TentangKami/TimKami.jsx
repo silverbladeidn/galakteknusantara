@@ -29,7 +29,10 @@ const teamMembers = [
 
 const TimKami = () => {
   return (
-    <section className="relative w-full bg-gradient-to-b from-gray-50 to-white py-16">
+    <section
+      id="tim-kami"
+      className="relative w-full bg-gradient-to-b from-gray-50 to-white py-16"
+    >
       <div className="container mx-auto px-6">
         {/* Header Section */}
         <div className="text-center mb-12">

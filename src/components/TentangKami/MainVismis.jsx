@@ -2,7 +2,7 @@ import React from "react";
 
 export default function MainVismis() {
   return (
-    <section className="py-20 bg-gray-50">
+    <section id="visi-misi" className="py-20 bg-gray-50">
       <div className="container mx-auto px-6 relative">
         <h2 className="text-3xl font-extrabold text-center mb-20 text-gray-800">
           Visi & Misi Kami

@@ -48,6 +48,13 @@ export default function Navbar() {
               >
                 <HashLink
                   smooth
+                  to="/tentang-kami#sambutan"
+                  className="block px-4 py-2 text-sm text-gray-600 hover:bg-indigo-50 hover:text-indigo-700"
+                >
+                  Sambutan
+                </HashLink>
+                <HashLink
+                  smooth
                   to="/tentang-kami#sejarah"
                   className="block px-4 py-2 text-sm text-gray-600 hover:bg-indigo-50 hover:text-indigo-700"
                 >

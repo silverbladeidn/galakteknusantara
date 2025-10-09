@@ -4,7 +4,7 @@ import Img2 from "../../assets/desain.png";
 
 const Perkenalan = () => {
   return (
-    <section className="w-full bg-white py-16">
+    <section id="sejarah" className="w-full bg-white py-16">
       <div className="container mx-auto px-6 grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
         {/* Bagian Gambar - sejajar kiri */}
         <div className="flex items-center justify-between px-10 py-20 gap-6">
