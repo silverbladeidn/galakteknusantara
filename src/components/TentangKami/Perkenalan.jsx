@@ -27,7 +27,7 @@ const Perkenalan = () => {
 
         {/* Bagian Teks - kanan */}
         <div>
-          <h2 className="text-3xl md:text-4xl font-bold text-gray-900 leading-snug mb-4">
+          <h2 className="text-3xl md:text-4xl font-bold text-blue-400 leading-snug mb-4">
             Sejarah Berdirinya Galaksi Teknologi Nusantara
           </h2>
           <div className="h-1 w-3/2 bg-indigo-600 mt-3 mx-auto md:mx-0"></div>
